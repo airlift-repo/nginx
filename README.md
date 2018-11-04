@@ -1,0 +1,2 @@
+# nginx
+Configured for Jupyter
